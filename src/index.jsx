@@ -20,8 +20,8 @@ const client = new ApolloClient({
   cache,
   link: new HttpLink({
       headers: { authorization: localStorage.getItem('token') },
-      //uri: "https://ancient-hamlet-87482.herokuapp.com/graphql",
-    uri: "http://localhost:4000/graphql",
+      uri: "https://ancient-hamlet-87482.herokuapp.com/graphql",
+    //uri: "http://localhost:4000/graphql",
   }),
   typeDefs,
   resolvers

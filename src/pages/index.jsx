@@ -13,6 +13,7 @@ export default function Pages() {
       <PageContainer>
         <Router primary={false} component={Fragment}>
           <Launches path="/" />
+          <Launches path="spacex-client" />
           <Launch path="launch/:launchId" />
           <Cart path="cart" />
           <Profile path="profile" />

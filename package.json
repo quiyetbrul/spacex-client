@@ -2,7 +2,7 @@
   "name": "spacex-client",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://quiyetbrul.github.io/spacex-client-build",
+  "homepage": "http://quiyetbrul.github.io/spacex-client",
   "dependencies": {
     "@apollo/react-hooks": "3.0.0",
     "@reach/router": "^1.2.1",

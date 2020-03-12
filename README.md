@@ -1,8 +1,4 @@
-# Apollo tutorial
-
-This is the fullstack app for the [Apollo tutorial](http://apollographql.com/docs/tutorial/introduction.html). 🚀
-
-## File structure
+Live Demo: https://quiyetbrul.github.io/spacex-client/
 
 The app is split out into two folders:
 - `spacex-client`: https://github.com/quiyetbrul/spacex-client
